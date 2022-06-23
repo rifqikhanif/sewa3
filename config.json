@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6283160624440@s.whatsapp.net"],
+  "ownerName": ["KANG GABUT"],
+  "botName": "REGHY BOTZ",
+  "sessionName": "session",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
