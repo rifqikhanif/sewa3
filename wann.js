@@ -12,7 +12,6 @@ const {
 	areJidsSameUser, 
 	getContentType 
 } = require('@adiwajshing/baileys');
-require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
 const {
 	exec, 
 	spawn, 
